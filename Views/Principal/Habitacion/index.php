@@ -4,7 +4,7 @@
 <section class="our-rooms-area-two our-rooms-area-four ptb-100">
     <div class="container">
         <div class="section-title">
-            <span>Our Rooms</span>
+            <span>Ou Rooms</span>
             <h2>Fascinating rooms & suites</h2>
         </div>
         <div class="tab industries-list-tab">
